@@ -50,7 +50,7 @@ highlight link markdownListMarker Todo
 
 
 highlight Comment ctermfg=DarkGrey guifg=DarkGrey
-hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
-hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+hi CursorLine   cterm=NONE ctermbg=darkyellow ctermfg=white guibg=darkyellow guifg=white
+hi CursorColumn cterm=NONE ctermbg=darkyellow ctermfg=white guibg=darkyellow guifg=white
 nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>
 set cursorline
