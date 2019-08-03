@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/nord-sublime-text/Nord.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true,
+	"tab_size": 4,
+    "draw_white_space": true,
+    "font_face": "Ubuntu Mono",
+    "font_options": [
+        "no_round",
+        "subpixel_antialias",
+    ],
+    "font_size": 11,
+    
+}
