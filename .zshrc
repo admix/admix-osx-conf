@@ -45,6 +45,7 @@ alias gl="git lg"
 alias gco="git checkout"
 alias gp="git pull"
 alias gaa="git add --all"
+alias gm="git merge"
 
 # ExactMotion misc
 export PYTHONPATH=$PYTHONPATH:/Users/alexander/dev/ExactMotion/egbgrr/api:/Users/alexander/dev/ExactMotion/egbgrr/database:/Users/alexander/dev/ExactMotion/egbgrr/tools:/Users/alexander/dev/ExactMotion/egbgrr/utils:/Users/alexander/dev/ExactMotion/egbgrr/processors
