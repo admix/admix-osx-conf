@@ -55,6 +55,7 @@ alias dcud="docker-compose up -d"
 alias dcdw="docker-compose down"
 alias dcps="docker-compose ps"
 alias dcl="docker-compose logs $1"
+alias dcrm-all="docker-compose rm --all"
 
 #docker misc
 alias dprune="docker volume prune"
