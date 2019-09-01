@@ -55,7 +55,11 @@ alias dcud="docker-compose up -d"
 alias dcdw="docker-compose down"
 alias dcps="docker-compose ps"
 alias dcl="docker-compose logs"
-alias dcrm-all="docker-compose rm"
+alias dcrm="docker-compose rm"
+function dex() {
+  docker exec -it "$1" /bin/bash
+  echo "$1"
+}
 
 #docker misc
 alias dprune="docker volume prune"
