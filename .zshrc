@@ -47,15 +47,15 @@ alias gp="git pull"
 alias gaa="git add --all"
 alias gm="git merge"
 
-# docker-compose aliases (buffet)
-alias dc="docker-compose $1"
+# docker-compose aliases
+alias dc="docker-compose"
 alias dcb="docker-compose build"
 alias dcu="docker-compose up"
 alias dcud="docker-compose up -d"
 alias dcdw="docker-compose down"
 alias dcps="docker-compose ps"
-alias dcl="docker-compose logs $1"
-alias dcrm-all="docker-compose rm --all"
+alias dcl="docker-compose logs"
+alias dcrm-all="docker-compose rm"
 
 #docker misc
 alias dprune="docker volume prune"
