@@ -5,7 +5,7 @@
 - config: TBD
 
 #### zsh pure (fast and light prompt)
-- theme: [pure]
+- theme: [pure](https://github.com/sindresorhus/pure)
 - setup:
 ```bash
 brew install pure
