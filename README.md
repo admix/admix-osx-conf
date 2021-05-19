@@ -34,6 +34,9 @@ prompt pure
 ```bash
 # git branch color
 zstyle :prompt:pure:git:branch color 208
+
+# git pull arrow color
+zstyle :prompt:pure:git:arrow color 119
 ```
 
 #### vim
