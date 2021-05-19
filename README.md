@@ -30,6 +30,11 @@ zstyle :prompt:pure:git:stash show yes
 
 prompt pure
 ```
+- different `zstyle` [colors](https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg)
+```bash
+# git branch color
+zstyle :prompt:pure:git:branch color 208
+```
 
 #### vim
 - theme: custom color scheme, inspired by [nord.vim](https://github.com/arcticicestudio/nord-vim)
